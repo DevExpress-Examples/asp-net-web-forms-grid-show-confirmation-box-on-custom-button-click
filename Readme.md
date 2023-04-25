@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to show the Deleting Confirmation box after performing some server-side actions
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4126/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542995/)**
 <!-- run online end -->
 
 
