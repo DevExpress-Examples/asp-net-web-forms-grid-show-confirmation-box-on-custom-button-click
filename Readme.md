@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to show a confirmation dialog box on a custom button click
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128542995/)**
-<!-- run online end -->
 
 This example demonstrates how to create a custom **Delete** button and show a confirmation pop-up window on a button click.
 
