@@ -59,7 +59,7 @@ Follow the steps below to configure the grid's confirm functionality:
 * [Passing Values Between Client and Server Sides](https://docs.devexpress.com/AspNet/11816/common-concepts/client-side-functionality/passing-values-between-client-and-server-sides)
 * [Update a Control on Another Contol's Callback](https://docs.devexpress.com/AspNet/402219/common-concepts/callbacks/update-control-in-callback-of-another-control)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-show-confirmation-box-on-custom-button-click&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-show-confirmation-box-on-custom-button-click&~~~was_helpful=no)
 
